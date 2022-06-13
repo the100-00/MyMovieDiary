@@ -6,6 +6,9 @@
 TheMovieDB API에서 영화 정보를 추출해 내가 감상한 영화를 기록할 수 있고, <br>
 Google Map API를 사용하여 현재 위치 정보와 주변 영화관을 검색할 수 있습니다. <br>
 카카오톡 API를 이용해 앱 링크 공유도 가능하게끔 했습니다.<br>
+ 
+ ### 사용언어
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ![image](https://user-images.githubusercontent.com/52526003/173285739-11980088-6259-4d3a-8147-c86341d44153.png)
  ![image](https://user-images.githubusercontent.com/52526003/173285963-1b420c5e-dc19-477b-acda-b0e0b8df3f99.png)
