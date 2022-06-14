@@ -1,4 +1,7 @@
 <div align>
+  <a href = "https://drive.google.com/file/d/1edMALg4z24kUTyy7nItCaYn8UHYbgC9p/view?usp=sharing">마이무비다이어리 최종 발표자료</a><br>
+ <a href = "https://youtu.be/yUAktG4p0mA">마이무비다이어리 시연 영상</a>
+ 
  
 # My Movie Diary 🎬
 
@@ -7,8 +10,7 @@
 최신 영화 정보 및 모든 영화 정보를 확인하고 검색할 수 있습니다. <br>
 내가 본 영화에 대해 별점을 매기고, 리뷰를 기록, 수정, 삭제할 수 있습니다.
 현재 내 위치에서 주변의 영화관을 검색할 수 있습니다.<br>
- <a href = "https://drive.google.com/file/d/1edMALg4z24kUTyy7nItCaYn8UHYbgC9p/view?usp=sharing">마이무비다이어리 최종 발표자료</a><br>
- <a href = "https://youtu.be/yUAktG4p0mA">마이무비다이어리 시연 영상</a>
+
  ### Info
  <strong>SQLite DB</strong>를 이용한 날짜, 장소, 별점, 리뷰 저장, 수정, 삭제 기능을 수행할 수 있습니다.<br>
  <strong>TheMovieDB API</strong>에서 영화 정보를 추출해 내가 감상한 영화를 기록할 수 있고, <br>
