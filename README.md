@@ -1,7 +1,8 @@
-<div align="center">
+<div align>
  
 # My Movie Diary 🎬
 
+ ### Service
 20-2학기 모바일 응용 과목에 제출했던 개인 프로젝트입니다.<br>
  <strong>TheMovieDB API</strong>에서 영화 정보를 추출해 내가 감상한 영화를 기록할 수 있고, <br>
  <strong>Google Map API</strong>를 사용하여 현재 위치 정보와 주변 영화관을 검색할 수 있습니다. <br>
@@ -10,6 +11,8 @@
  ### 사용언어 및 툴
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
+ 
+ ### 개발 기능 및 화면
 ![image](https://user-images.githubusercontent.com/52526003/173285739-11980088-6259-4d3a-8147-c86341d44153.png)
  ![image](https://user-images.githubusercontent.com/52526003/173285963-1b420c5e-dc19-477b-acda-b0e0b8df3f99.png)
 ![image](https://user-images.githubusercontent.com/52526003/173285989-5a132e8a-bc1c-4d41-b94f-9515e09278af.png)
